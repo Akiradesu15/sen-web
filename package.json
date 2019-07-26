@@ -1,0 +1,25 @@
+{
+  "name": "sen-web",
+  "version": "1.0.0",
+  "description": "sistema de gerenciamento academico.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akiradesu15/sen-web.git"
+  },
+  "keywords": [
+    "geremciamento",
+    "academico",
+    "alunos",
+    "escola"
+  ],
+  "author": "Letícia Da Silva Souza",
+  "license": " MIT",
+  "bugs": {
+    "url": "https://github.com/Akiradesu15/sen-web/issues"
+  },
+  "homepage": "https://github.com/Akiradesu15/sen-web#readme"
+}
